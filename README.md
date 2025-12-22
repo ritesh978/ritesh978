@@ -1,12 +1,4 @@
-## Hi there 👋
-
-<!--
-**ritesh978/ritesh978** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...# 💫 About Me:
+# 💫 About Me:
 🔭 I’m currently working on<br><br>Web Application Security Testing (VAPT)<br><br>Hands-on labs on TryHackMe & Hack The Box<br><br>Building a strong foundation in Blue Team & Red Team basics<br><br>🤝 I’m looking to collaborate on<br><br>Cybersecurity projects (VAPT, SOC, Threat Analysis)<br><br>Capture The Flag (CTF) challenges<br><br>Security research & open-source security tools<br><br>🧠 I’m looking for help with<br><br>Advanced web exploitation techniques<br><br>Real-world SOC workflows<br><br>Malware analysis & incident response<br><br>🌱 I’m currently learning<br><br>OWASP Top 10 (deep dive with practical labs)<br><br>Network & Web Pentesting<br><br>SIEM tools, logs analysis, and threat detection<br><br>💬 Ask me about<br><br>CEH concepts<br><br>Web application vulnerabilities<br><br>Burp Suite, Nmap, SQLi, XSS, CSRF<br><br>TryHackMe walkthroughs & learning paths<br><br>⚡ Fun fact<br><br>I enjoy breaking applications ethically more than building them 😄
 
 
@@ -24,10 +16,3 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=ritesh978&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

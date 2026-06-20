@@ -42,11 +42,11 @@
 
 ## About
 
-I am a **CEH-certified Computer Science graduate** and **Cybersecurity Professional** with hands-on experience in SOC operations, incident response, threat detection, and log analysis. My approach bridges offensive insights with defensive monitoring to protect infrastructure and accelerate threat mitigation.
+I am a **CEH-certified Computer Science graduate** and **Cybersecurity Professional** with hands-on experience in SOC operations, incident response, threat detection, and log analysis[cite: 9]. My approach bridges offensive insights with defensive monitoring to protect infrastructure and accelerate threat mitigation[cite: 9].
 
-My work focuses on security engineering and infrastructure analysis — from standing up multi-component telemetry logging instances to scripting automated triage platforms that accurately classify threats. I emphasize structured compliance, explicit playbooks, and detailed indicators documentation.
+My work focuses on security engineering and infrastructure analysis — from standing up multi-component telemetry logging instances to scripting automated triage platforms that accurately classify threats[cite: 9]. I emphasize structured compliance, explicit playbooks, and detailed indicators documentation[cite: 9].
 
-I complement my project engineering with persistent, practical simulations on platforms like TryHackMe (Ranked in the Top 2% globally) and HackTheBox to master advanced exploitation, Active Directory compromise vectors, and threat hunting workflows.
+I complement my project engineering with persistent, practical simulations on platforms like TryHackMe (Ranked in the Top 2% globally) and HackTheBox to master advanced exploitation, Active Directory compromise vectors, and threat hunting workflows[cite: 9].
 
 **Open to:** SOC Analyst (L1/L2) Roles · Security Engineer Roles · Cyber Consulting Opportunities
 
@@ -84,12 +84,12 @@ I complement my project engineering with persistent, practical simulations on pl
 
 | Domain | Proficiency | Details |
 |---|---|---|
-| **SOC Operations** | Advanced | Alert triage, log analysis, event correlation, incident documentation |
-| **SIEM Architecture** | Advanced | Rule configuration, telemetry aggregation, endpoint reporting (Splunk, Wazuh) |
-| **Threat Intelligence** | Advanced | MITRE ATT&CK mapping, Cyber Kill Chain, CVE/CVSS mapping, OWASP Top 10 |
-| **Vulnerability Management** | Intermediate | Network vulnerability assessment, exposure hunting, surface scanning |
-| **Infrastructure Security** | Intermediate | Windows Event Logs analysis, Active Directory security, Linux administration |
-| **OSINT & Recon** | Advanced | External mapping, certificate transparency enumeration, passive intelligence gathering |
+| **SOC Operations** | Advanced | Alert triage, log analysis, event correlation, incident documentation[cite: 9] |
+| **SIEM Architecture** | Advanced | Rule configuration, telemetry aggregation, endpoint reporting (Splunk, Wazuh)[cite: 9] |
+| **Threat Intelligence** | Advanced | MITRE ATT&CK mapping, Cyber Kill Chain, CVE/CVSS mapping, OWASP Top 10[cite: 9] |
+| **Vulnerability Management** | Intermediate | Network vulnerability assessment, exposure hunting, surface scanning[cite: 9] |
+| **Infrastructure Security** | Intermediate | Windows Event Logs analysis, Active Directory security, Linux administration[cite: 9] |
+| **OSINT & Recon** | Advanced | External mapping, certificate transparency enumeration, passive intelligence gathering[cite: 9] |
 
 ---
 
@@ -104,13 +104,13 @@ I complement my project engineering with persistent, practical simulations on pl
 
 | Attribute | Detail |
 |---|---|
-| **Stack** | Wazuh SIEM/XDR · Splunk · Sysmon · Kali Linux |
-| **Telemetry** | End-to-end Windows Event telemetry collection parsing |
-| **Simulations** | Brute-force and network port-scanning automated paths |
-| **Methodology** | Standardized indicators tracking & MITRE ATT&CK alignment |
+| **Stack** | Wazuh SIEM/XDR · Splunk · Sysmon · Kali Linux[cite: 9] |
+| **Telemetry** | End-to-end Windows Event telemetry collection parsing[cite: 9] |
+| **Simulations** | Brute-force and network port-scanning automated paths[cite: 9] |
+| **Methodology** | Standardized indicators tracking & MITRE ATT&CK alignment[cite: 9] |
 | **Repository** | [github.com/ritesh978/SOC-Home-Lab](https://github.com/ritesh978) |
 
-**What it does:** Aggregates multi-endpoint network telemetry and logs into a centralized dashboard. Allows active mapping of simulated attack vectors (brute forcing, pivoting) against explicit alert playbooks to track post-exploitation indicators.
+**What it does:** Aggregates multi-endpoint network telemetry and logs into a centralized dashboard[cite: 9]. Allows active mapping of simulated attack vectors (brute forcing, pivoting) against explicit alert playbooks to track post-exploitation indicators[cite: 9].
 
 </details>
 
@@ -123,13 +123,13 @@ I complement my project engineering with persistent, practical simulations on pl
 
 | Attribute | Detail |
 |---|---|
-| **Stack** | Python · JavaScript · HTML · VirusTotal API |
-| **Extraction** | Raw .eml token parser targeting URLs, sender IP, and domains |
-| **Validation** | Automated cryptographic alignment checking for SPF, DKIM, DMARC |
-| **Accuracy** | 90%+ classification accuracy score on malicious payloads |
+| **Stack** | Python · JavaScript · HTML · VirusTotal API[cite: 9] |
+| **Extraction** | Raw .eml token parser targeting URLs, sender IP, and domains[cite: 9] |
+| **Validation** | Automated cryptographic alignment checking for SPF, DKIM, DMARC[cite: 9] |
+| **Accuracy** | 90%+ classification accuracy score on malicious payloads[cite: 9] |
 | **Repository** | [github.com/ritesh978/Phish-Triage](https://github.com/ritesh978) |
 
-**What it does:** Strips out structural markers from suspect email messages to flag phishing setups before entry into endpoints. Computes comprehensive risk parameters through domain records evaluation and dynamic threat lookup endpoints.
+**What it does:** Strips out structural markers from suspect email messages to flag phishing setups before entry into endpoints[cite: 9]. Computes comprehensive risk parameters through domain records evaluation and dynamic threat lookup endpoints[cite: 9].
 
 </details>
 
@@ -142,13 +142,13 @@ I complement my project engineering with persistent, practical simulations on pl
 
 | Attribute | Detail |
 |---|---|
-| **Stack** | Python · Nmap · OSINT Framework · Multithreading |
-| **Enumeration** | Automated deep DNS mapping & Certificate Transparency evaluation |
-| **Efficiency** | 70% reduction in timeline compared to manual footprinting targets |
-| **Reporting** | Clean structured layout formats optimized for threat assessment workflows |
+| **Stack** | Python · Nmap · OSINT Framework · Multithreading[cite: 9] |
+| **Enumeration** | Automated deep DNS mapping & Certificate Transparency evaluation[cite: 9] |
+| **Efficiency** | 70% reduction in timeline compared to manual footprinting targets[cite: 9] |
+| **Reporting** | Clean structured layout formats optimized for threat assessment workflows[cite: 9] |
 | **Repository** | [github.com/ritesh978/SPECTER](https://github.com/ritesh978) |
 
-**What it does:** Scans target parameters concurrently to index an organization's public asset boundaries, finding exposed components or vulnerabilities before malicious discoverability occurs.
+**What it does:** Scans target parameters concurrently to index an organization's public asset boundaries, finding exposed components or vulnerabilities before malicious discoverability occurs[cite: 9].
 
 </details>
 
@@ -160,10 +160,10 @@ I complement my project engineering with persistent, practical simulations on pl
 
 | Platform / Recognition | Details |
 |---|---|
-| **TryHackMe** | Ranked in the Top 2% globally • 200+ lab environments resolved • 5+ Learning Certificates |
-| **HackTheBox** | Successfully exploited and hardened 10+ advanced multi-vector machine setups |
-| **CTF Competitions** | Active participation in PicoCTF & HackTheBox structural events (Forensics, Web, Crypto) |
-| **Documentation** | Completed comprehensive, high-quality technical challenge write-ups for review tracking |
+| **TryHackMe** | Ranked in the Top 2% globally • 200+ lab environments resolved • 5+ Learning Certificates[cite: 9] |
+| **HackTheBox** | Successfully exploited and hardened 10+ advanced multi-vector machine setups[cite: 9] |
+| **CTF Competitions** | Active participation in PicoCTF & HackTheBox structural events (Forensics, Web, Crypto)[cite: 9] |
+| **Documentation** | Completed comprehensive, high-quality technical challenge write-ups for review tracking[cite: 9] |
 
 </div>
 
